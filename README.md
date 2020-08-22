@@ -8,3 +8,4 @@ There are 3 classes for prediction are:
 
 
 Used a basic architecture as when used mobilenet got accuracy of 86% so used basic self made architecture.
+Dataset link: https://www.kaggle.com/andrewmvd/face-mask-detection
