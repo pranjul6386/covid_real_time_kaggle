@@ -1,6 +1,6 @@
 # covid_real_time_kaggle
 
-Real time face mask prediction model with 94 % accuracy with many faces in a image.
+Real time face mask prediction model with 94 % accuracy with many faces in a image.It can track as many faces and in the real time detect the mask with open cv.
 There are 3 classes for prediction are:
 1 mask
 2 no mask
